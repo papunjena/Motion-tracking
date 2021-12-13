@@ -1,0 +1,6 @@
+
+
+dumb deaf communication protocol
+
+
+
